@@ -1,4 +1,12 @@
-# Community Membership
+# Community-Membership-Open-Source-Membership-Platform-Starter
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+Open-source community membership platform built with Flutter and Laravel. Includes digital membership cards, events, chapters, social feed, QR verification, notifications, and a scalable REST API. Perfect for organizations, associations, and communities.
+
+---
+
+ Community Membership
 
 > Open-source community membership platform built with **Flutter** and **Laravel**. Membership cards, events, chapters, social feed, QR verification, and a scalable REST API.
 
